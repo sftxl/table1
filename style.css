@@ -1,0 +1,19 @@
+table{
+    border:1px solid black;
+    width:600px;
+    font-size: 12px;
+    text-align: center;
+}
+table tr, td{
+    border: 1px dotted black;
+}
+thead{
+    background-color: burlywood;
+    font-size: 14px;
+}
+tfoot tr, td{
+    height:50px;
+}
+.overall{
+    text-align: end;
+}
